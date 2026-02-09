@@ -1,0 +1,6 @@
+2026-02-09T23:12:35.692879900: S'ha afegit un nou registre (clients) :12345678F ruben 2003-12-12
+2026-02-09T23:17:10.906903500: S'ha afegit un nou registre (habitacions) : [12 1234.0 false]
+2026-02-09T23:31:46.265148: S'ha eliminat un registre: [paula PauLa1 CLIENT]
+2026-02-09T23:40:41.692753200: S'ha eliminat un registre: [ruben RuBen123 ADMIN]
+2026-02-09T23:41:08.943116900: S'ha eliminat un registre: [andrea AnDrea9 RECEPCIO]
+2026-02-09T23:42:00.108652: S'ha modificat el registre: [48291037F Lucia 2000-11-21]

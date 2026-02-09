@@ -1,0 +1,11 @@
+carlos CarLos7 CLIENT
+marta MarTa4 CLIENT
+admin AdMin2024 ADMIN
+laura LauRa8 RECEPCIO
+pedro PeDro5 CLIENT
+sofia SoFiA6 CLIENT
+sergio SerGio3 RECEPCIO
+jordi JorDi9 ADMIN
+lucia LuCia4 CLIENT
+marcos MarCos7 RECEPCIO
+ana AnA2 CLI
